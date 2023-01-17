@@ -44,3 +44,28 @@ export const experiences = [
         from: 2000,
     },
 ]
+
+export const proyects = [
+    {
+        name: "Awesome Website 1 ",
+        description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita natus obcaecati ipsum quos possimus, voluptatum corrupti! Sed, distinctio beatae? Odit autem porro quasi eum vitae ea, accusamus quo asperiores corrupti.',
+        image: 'portfolio1.jpeg' 
+    },
+    {
+        name: "Awesome Website 1 ",
+        description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita natus obcaecati ipsum quos possimus, voluptatum corrupti! Sed, distinctio beatae? Odit autem porro quasi eum vitae ea, accusamus quo asperiores corrupti.',
+        image: 'portfolio1.jpeg' 
+    },{
+        name: "Awesome Website 1 ",
+        description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita natus obcaecati ipsum quos possimus, voluptatum corrupti! Sed, distinctio beatae? Odit autem porro quasi eum vitae ea, accusamus quo asperiores corrupti.',
+        image: 'portfolio1.jpeg' 
+    },{
+        name: "Awesome Website 1 ",
+        description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita natus obcaecati ipsum quos possimus, voluptatum corrupti! Sed, distinctio beatae? Odit autem porro quasi eum vitae ea, accusamus quo asperiores corrupti.',
+        image: 'portfolio1.jpeg' 
+    },{
+        name: "Awesome Website 1 ",
+        description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita natus obcaecati ipsum quos possimus, voluptatum corrupti! Sed, distinctio beatae? Odit autem porro quasi eum vitae ea, accusamus quo asperiores corrupti.',
+        image: 'portfolio1.jpeg' 
+    },
+]
